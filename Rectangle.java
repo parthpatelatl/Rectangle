@@ -42,7 +42,7 @@ public class Rectangle {
     
     //Calculates and returns the perimeter
     public double getPerimeter() {
-        return this.width*2 + this.height*2;
+        return this.width * 2 + this.height * 2;
     }
     
 }
